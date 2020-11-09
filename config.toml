@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://minori-akizuki.github.io/githubtest/"
 languageCode = "en-us"
 title = "Hugo Future Imperfect"
 theme = "hugo-future-imperfect"
